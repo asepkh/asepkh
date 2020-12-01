@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Asep Khairul Anam
+I am an Junior FullStack Javascript Developer who has a desire to explore something new related to technology and startups. want to work with professionals to improve my skills, compete in the era of industry 4.0 and provide more benefits for me and the company 
 
 <!--
 **asepkh/asepkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
