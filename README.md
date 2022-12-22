@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Asep Khairul Anam
-I am an Junior Frontend Developer who has a desire to explore something new related to technology and startups. want to work with professionals to improve my skills, compete in the era of industry 4.0 and provide more benefits for me and the company 
+I am Frontend Developer who has a desire to explore something new related to technology and startups. want to work with professionals to improve my skills, compete in the era of industry 4.0 and provide more benefits for me and the company 
 
 ### Programming Languages 🌐
 
