@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Asep Khairul Anam
-Hello, I'am Frontend developers with a proven ability to collaborate effectively with senior developers to be mentored or work
-individually. Focusing on any latest javascript tech. Experience in driving projects forward as the development frontend coleader team. Passionate about learning and development with a desire to apply skills on a larger development team. Eager to tackle
-more complex problems and continue to find ways to maximize user efficiency.
+Hello, I'am Frontend Developer with experience collaborating effectively with senior developers for mentorship and working independently. Specialized in utilizing the latest JavaScript technologies and driving projects forward as a co-leader of frontend development teams. Passionate about continuous learning and applying skills within larger development teams. Eager to solve complex problems and dedicated to maximizing user efficiency.
 
 ### Programming Languages 🌐
 
